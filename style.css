@@ -10,3 +10,7 @@
     --branco:rgba(255, 255, 255, 1);
     --rosa:rgba(250, 0, 255, 1);
 }
+
+body{
+    background-color: var(--cor-de-fundo);
+}
